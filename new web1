@@ -1,0 +1,116 @@
+<!doctype  html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>遇见未知的自己</title>
+</head>
+<body>
+<h1>网站的一级标题<h1>
+<ul>
+<li><a href="http://www.sohu.com">搜狐</a></li>
+<li><a href="http://www.google.com">google</a></li>
+<li><a href="http://www.sina.com">新浪</a></li>
+</ul>
+<h1>遇见未知的自己</h1>
+<h2>张德芬</h2>
+<p>                                                                                 
+我们人类所受的苦的根源就是我们不清楚自己是谁，而盲目地去攀附、追求那些不能代表我们的东西！而我们追求的到底是什么？什么是世界上所有人想要的东西？<a href ="yujian.html" target="_blank">开始，就是未来。</a>死亡来临的时候，会把所有不能代表我们的东西席卷一空，而真正的你，是不会随着时间甚至死亡而改变的。</p><img src="yujian.pictures/1.jpg" width="200" height="150"/>
+<p> 如果月亮代表我们真正的自己，而且它是无法用言语具体描述清楚地东西，那么我们所有用语言去描述它的尝试，就是这根指向月亮的手指，而不是真正的月亮。</p>
+<p>凡是你抗拒的，都会持续，<b>亲爱的，外面没有别人，只有你自己。</b>所有的外在的事物都是你内在投射出来的结果。</p></hr>
+<h1>追风筝的人</h1>
+<h2>卡勒德·胡赛尼</h2>
+<p>我们总喜欢给自己找很多理由去解释自己的懦弱，总是自欺欺人的去相信那些美丽的谎言，总是去掩饰自己内心的恐惧，总是去逃避自己犯下的罪行。但事实总是，有一天，我们不得不坦然面对那些罪恶，给自己心灵予救赎。</p>
+<p>许多年过去了，人们说陈年旧事可以被埋葬，然而我终于明白这是错的，因为往事会自行爬上来。可是人就是这样，总会活在某个时限内，那里的世界也许是几年之后连自己都无法理解的，但这又是我们无法突破的。<b>为你，千千万万遍</b>，遍体鳞伤还是会义无反顾，也许这就是人生，人生不是只做值得的事情！时间很贪婪——有时候，它会独自吞噬所有的细节。<a href ="http://ife.baidu.com" target="_blank">ifebaidu </a>世间太多故事，其实都没有胜者。</p>
+<ul>
+<li>星期一</li>
+<li>星期二</li>
+<li>星期三</li>
+<li>星期四</li>
+<li>星期五</li>
+<li>星期六</li>
+</ul>
+<h1>图片</h1>
+<p>遇见追风筝的人</p>
+<img src="yujian.pictures/2.jpg"  width="200" height="150"/>
+<p>遇见追风筝的人</p>
+<img src="yujian.pictures/3.jpg"  width="200" height="150"/>
+<p>遇见追风筝的人</p>
+<img src="yujian.pictures/4.jpg"  width="200" height="150"/>
+<p>遇见追风筝的人</p>
+<img src="yujian.pictures/5.jpg"  width="200" height="150"/>
+<p>遇见追风筝的人</p>
+<img src="yujian.pictures/6.jpg"  width="200" height="150"/>
+<p>遇见追风筝的人</p>
+<img src="yujian.pictures/7.jpg"  width="200" height="150"/>
+<p>遇见追风筝的人</p>
+<img src="yujian.pictures/8.jpg"  width="200" height="150"/>
+<p>遇见追风筝的人</p>
+<img src="yujian.pictures/9.jpg"  width="200" height="150"/>
+<p>遇见追风筝的人</p>
+<img src="yujian.pictures/10.jpg"  width="200" height="150"/>
+<h1>解忧杂货店</h1>
+<h2>东野圭吾</h2>
+<p>文章排名</p>
+<ol>
+<li>解忧杂货店</li>
+<li>遇见未知的自己</li>
+<li>追风筝的人</li>
+<table width="200" border="1">
+<caption>热销排行榜</caption>
+<tr>
+<td width="44">作者</td>
+<td width="100">著作</td>
+<td width="100">销量</td>
+</tr
+<tr>
+<td width="44">张德芬</td>
+<td width="100">遇见未知的自己</td>
+<td width="100">300000</td>
+</tr>
+<tr>
+<td width="44">东野圭吾</td>
+<td width="100">解忧杂货店</td>
+<td width="100">100000</td>
+</tr>
+<tr>
+<td width="44">卡勒德·胡赛尼</td>
+<td width="100">追风筝的人</td>
+<td width="100">150000</td>
+</tr>
+</ol>
+</table></br>
+<h3>填写个人信息：</h3>
+<form name="form1" method="post" action="" >
+请输入邮箱地址：
+<input name="emil：" type="text"  size="30"/>
+</br>
+请输入密码：
+<input name="password: " type="password" value="123456789asdfghj" size="30" maxlength="16"/>
+请重复输入密码：
+<input name="password: " type="password" value="123456789asdfghj" size="30" maxlength="16"/>
+</br>
+性别：
+<input name="radiobutton" type="radio" value="radiobutton" checked="checked"/>男
+<input name="radiobutton" type="radio" value="radiobutton" />女
+城市：
+<select name="select">
+<option value="北京" selected="selected">北京</option>
+<option value="广州">广州</option>
+<option value="南京">南京</option>
+<option value="长沙">长沙</option>
+<option value="重庆">重庆</option>
+<option value="深圳">深圳</option>
+</select>
+爱好：
+<input name ="checkbox" type="checkbox" value="checkbox" checked="checked"/>阅读
+<input name ="checkbox" type="checkbox" value="checkbox" />运动
+<input name ="checkbox" type="checkbox" value="checkbox" />艺术
+<input name ="checkbox" type="checkbox" value="checkbox" />科学
+<input name ="checkbox" type="checkbox" value="checkbox" />自然
+</br>
+个人描述：
+<textarea name="textarea" cols="35" rows="5"></textarea>
+<input type="submit" name="Submit" value="确认提交"/>
+</form>
+</body>
+</html>
